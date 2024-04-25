@@ -20,10 +20,12 @@ Live demo at [lyc8503's Fileshare](https://pan.lyc8503.site).
 
 > [!NOTE]
 > Đây là hướng dẫn config và setup bằng tiếng việt bởi mod voz4rum
+>
 > This is configuration and setup instructions with Vietnamese by mod voz4rum 
 
 > [!WARNING]
 > Bài hướng dẫn dưới đây đã được viết khá lâu nên có thể hơi khác một chút để thực tế
+>
 > The instructions below were written a long time ago, so they may be a little different from reality
 
 ## Giới thiệu:
