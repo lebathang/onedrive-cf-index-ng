@@ -24,7 +24,7 @@ Live demo at [lyc8503's Fileshare](https://pan.lyc8503.site).
 > This is configuration and setup instructions with Vietnamese by mod voz4rum 
 
 > [!WARNING]
-> Bài hướng dẫn dưới đây đã được viết khá lâu nên có thể hơi khác một chút để thực tế
+> Bài hướng dẫn dưới đây đã được viết khá lâu nên có thể hơi khác một chút so với thực tế
 >
 > The instructions below were written a long time ago, so they may be a little different from reality
 
