@@ -52,6 +52,18 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/lebathang',
     },
+    {
+      name: 'Facebook',
+      link: 'https://www.facebook.com/profile.php?id=100016824016369',
+    },
+    {
+      name: 'Twitter',
+      link: 'https://twitter.com/Thang_pr0vjp123',
+    },
+    {
+      name: 'Discord',
+      link: 'https://discord.com/users/835488546897920021',
+    }
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
